@@ -1,0 +1,9 @@
+# Executables
+*.gslides
+*.ini
+*.gsheet
+*.gdoc
+*.File
+*.gform
+
+
